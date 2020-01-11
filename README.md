@@ -1,12 +1,11 @@
 # guesswhat
 GuessWhat?! is a challenging visual dialog task.
 
-Tensorflow implementation of the paper:
-
-Visual Dialogue State Tracking for Question Generation
-Wei Pang, Xiaojie Wang
-https://arxiv.org/abs/1911.07928
-AAAI 2020 (Oral)
+Tensorflow implementation of the paper:<br>
+Visual Dialogue State Tracking for Question Generation<br>
+Wei Pang, Xiaojie Wang<br>
+https://arxiv.org/abs/1911.07928<br>
+AAAI 2020 (Oral)<br>
 
 
 It will be coming soon.
