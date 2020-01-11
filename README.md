@@ -12,10 +12,10 @@ It will be coming soon.
 
 
 
-Reference
-@InProceedings{pang2020guesswhat,
-  title={Visual Dialogue State Tracking for Question Generation},
-  author={Wei Pang and Xiaojie Wang},
-  booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},
-  year={2020}
-}
+Reference<br>
+@InProceedings{pang2020guesswhat,<br>
+  title={Visual Dialogue State Tracking for Question Generation},<br>
+  author={Wei Pang and Xiaojie Wang},<br>
+  booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},<br>
+  year={2020}<br>
+}<br>
