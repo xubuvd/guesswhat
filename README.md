@@ -14,7 +14,7 @@ https://arxiv.org/abs/1911.07928<br>
 AAAI 2020 (Oral)<br>
 
 ## Performance for GuessWhat?! Game
-![My latest performance for GuessWhat?! game](https://github.com/xubuvd/guesswhat/raw/master/GuessWhat_accuracy_Nov2019.png)
+![My latest performance for GuessWhat?! game](https://github.com/xubuvd/guesswhat/raw/GuessWhat_accuracy_Nov2019.png)
 
 As shown in the uploaded figure "guesswhat_performance_2019.png", our latest research progress of GuessWhat?! game, it achieves near-perfect accuracy of 83.3% and outperforms all the previous methods. Notes that the human-level performance is 84.4%.
 
