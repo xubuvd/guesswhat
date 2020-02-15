@@ -2,7 +2,7 @@
 
 My research is in the area of Vision and Language with a focus on Visual Dialogue. In particular, I am interested in building a visual conversation agent (social robot) that can see the world and talk with humans in natural language. Other interests include Visual Reasoning, Visual Grounding, Visual Question Generation and Visual Dialog based Referring Expression.
 
-GuessWhat?! is an object-guessing game between two players. It has attracted great research interest.
+GuessWhat?! is an object-guessing game between two players. It has attracted great research interest in recent years.
 
 Tensorflow implementation of the paper:<br>
 Visual Dialogue State Tracking for Question Generation<br>
