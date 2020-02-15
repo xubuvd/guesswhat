@@ -7,6 +7,7 @@ Wei Pang, Xiaojie Wang<br>
 https://arxiv.org/abs/1911.07928<br>
 AAAI 2020 (Oral)<br>
 
+https://github.com/xubuvd/guesswhat/blob/master/GuessWhat_accuracy_Nov2019.png
 
 As shown in the uploaded figure "guesswhat_performance_2019.png", our last research progress of GuessWhat?! game, it achieves near-perfect accuracy of 83.3% and outperforms all the previous methods. This research was ended in Nov. 2019.
 
