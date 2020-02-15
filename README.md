@@ -1,5 +1,8 @@
 # guesswhat
-GuessWhat?! is a challenging visual dialog task.
+
+My research is in the area of Vision and Language with a focus on Visual Dialogue. In particular, I am interested in building a visual conversation agent (social robot) that can see the world and talk with humans in natural language. Other interests include Visual Reasoning, Visual Grounding, Visual Question Generation and Visual Dialog based Referring Expression.
+
+GuessWhat?! is an object-guessing game between two players. It has attracted great research interest.
 
 Tensorflow implementation of the paper:<br>
 Visual Dialogue State Tracking for Question Generation<br>
@@ -15,9 +18,9 @@ As shown in the uploaded figure "guesswhat_performance_2019.png", our latest res
 
 <b>Now i'm doing GuessWhich and VisDial</b>, please feel free to concat me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
-The experimental code is stilling being refined, coming soon.
+The experimental codes are stilling being refined, coming soon.
 
-Reference<br>
+Reference:<br>
 @InProceedings{pang2020guesswhat,<br>
   title={Visual Dialogue State Tracking for Question Generation},<br>
   author={Wei Pang and Xiaojie Wang},<br>
