@@ -5,7 +5,7 @@
 
 # GuessWhat?! Game
 
-GuessWhat?! is an object-guessing game between two players. It has attracted great research interest in recent years.
+GuessWhat?! is an image object-guessing game between two players. It has attracted great research interest in recent years.
 
 Tensorflow implementation of the paper:<br>
 Visual Dialogue State Tracking for Question Generation<br>
