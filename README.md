@@ -1,5 +1,5 @@
 # About Me
-虚步, a Ph.D. student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision and Language with a focus on Visual Dialogue. In particular, I am interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with humans in natural language. Other interests include Language Grounding, Visual Reasoning, Visual Grounding, Visual Question Generation and Visual Dialog based Referring Expression.
+虚步, a Ph.D. student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision and Language with a focus on Visual Dialogue. In particular, I am interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Language Grounding, Visual Reasoning, Visual Grounding, Visual Question Generation and Visual Dialog based Referring Expression.
 
 <b>Now I'm doing research on GuessWhich and Visual Dialog(VisDial)</b>, please feel free to concat me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
