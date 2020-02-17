@@ -32,7 +32,7 @@ The experimental codes are stilling being refined, coming soon.
   year={2020}<br>
 }<br>
 
-# current Vision and Language tasks, focuses on Visual Dialogue
+# Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
 1. Multimodal Dialogs(MMD), AAAI 2018<br>
 2. CoDraw, ACL 2019<br>
 3. GuessWhich, AAAI 2017<br>
@@ -48,9 +48,10 @@ The experimental codes are stilling being refined, coming soon.
 13. Deal or No Deal, CoRR 2017<br>
 14. Video-Grounded Dialogue Systems (VGDS), ACL 2019<br>
 15. Vision-Language Navigation (VLN), CVPR 2018<br>
-16. image captioning<br>
+16. Image Captioning<br>
 17. Image Retrieval<br>
 18. Visually-grounded Referring Expressions<br>
-19. Multi-modal Verification<br>
-20. VQA<br>
+19. Multi-modal Verification, ACL 2019<br>
+20. Viual Dialog based Referring Expression<br>
+21. VQA<br>
 
