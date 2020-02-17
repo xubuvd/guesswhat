@@ -48,5 +48,9 @@ The experimental codes are stilling being refined, coming soon.
 13. Deal or No Deal, CoRR 2017<br>
 14. Video-Grounded Dialogue Systems (VGDS), ACL 2019<br>
 15. Vision-Language Navigation (VLN), CVPR 2018<br>
-16. VQA<br>
+16. image captioning<br>
+17. Image Retrieval<br>
+18. Visually-grounded Referring Expressions<br>
+19. Multi-modal Verification<br>
+20. VQA<br>
 
