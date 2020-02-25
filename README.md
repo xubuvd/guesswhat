@@ -13,7 +13,7 @@ Wei Pang, Xiaojie Wang<br>
 https://arxiv.org/abs/1911.07928<br>
 AAAI 2020 (Oral)<br>
 
-# Performance for GuessWhat?! Game
+# Latest Progress on GuessWhat?! Game
 ![](GuessWhat_accuracy_Nov2019.png)![](guesswhat_performance_2019.png)
 ![](https://github.com/xubuvd/guesswhat/raw/master/GuessWhat_accuracy_Nov2019.png)
 
