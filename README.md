@@ -30,6 +30,14 @@ The experimental codes are stilling being refined, coming soon.
   booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},<br>
   year={2020}<br>
 }<br>
+@article{pw2020Guesser,<br>
+  title={Guessing State Tracking for Visual Dialogue},<br>
+  author={Wei Pang and Xiaojie Wang},<br>
+  booktitle={arXiv:2002.10340},<br>
+  year={2020}<br>
+}<br>
+
+	
 
 # Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
 1. Multimodal Dialogs(MMD), AAAI 2018<br>
