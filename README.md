@@ -15,7 +15,6 @@ AAAI 2020 (Oral)<br>
 
 # Latest Progress on GuessWhat?! Game
 ![](guesser_201911_10.png)![](guesswhat_performance_2019.png)
-(https://github.com/xubuvd/guesswhat/raw/master/GuessWhat_accuracy_Nov2019.png)
 
 arXiv: https://arxiv.org/abs/2002.10340
 
