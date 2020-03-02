@@ -22,7 +22,7 @@ As shown in the uploaded figure "guesswhat_performance_2019.png", our latest res
 
 <b>This research was started in Mar. 2019 and ended in Nov. 2019.</b>
 
-The experimental codes are stilling being refined, coming soon.
+<b>If you use the experimental codes, please concat me with pangweitf@bupt.edu.cn or pangweitf@163.com.</b>
 
 # Reference
 @InProceedings{pang2020guesswhat,<br>
