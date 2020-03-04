@@ -14,7 +14,7 @@ https://arxiv.org/abs/1911.07928<br>
 AAAI 2020 (Oral)<br>
 
 # Latest Progress on GuessWhat?! Game
-![](guesser_201911_10.png)![](guesswhat_performance_2019.png)
+![](guesser_201911_10.png)
 
 arXiv: https://arxiv.org/abs/2002.10340
 
