@@ -18,7 +18,7 @@ AAAI 2020 (Oral)<br>
 
 arXiv: https://arxiv.org/abs/2002.10340
 
-As shown in the uploaded figure "guesser_201911_10.png", our latest research progress of GuessWhat?! game, it achieves near-perfect accuracy of 83.3% and outperforms all the previous methods. Notes that the human-level performance is 84.4%.
+As shown in the uploaded figure "guesser_201911_10.png", our latest progress on GuessWhat?! game, it achieves near-perfect accuracy of 83.3% and outperforms all the previous methods. Notes that the human-level performance is 84.4%.
 
 <b>This research was started in Mar. 2019 and ended in Nov. 2019.</b>
 
