@@ -13,7 +13,7 @@ Wei Pang, Xiaojie Wang<br>
 https://arxiv.org/abs/1911.07928<br>
 AAAI 2020 (Oral)<br>
 
-# Latest Progress on GuessWhat?! Game
+# Latest Progress on the GuessWhat?! Game
 ![](guesser_201911_10.png)
 
 arXiv: https://arxiv.org/abs/2002.10340
