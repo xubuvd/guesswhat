@@ -1,11 +1,11 @@
 # About Me
-虚步, a Ph.D. student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision, Language and Reasoning, with a focus on Visual Dialogue. In particular, I am interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation and Visually-grounded Referring Expression.
+虚步, a PhD student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision, Language and Reasoning, with a focus on Visual Dialogue. In particular, I am interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation and Visually-grounded Referring Expression.
 
-<b>Now I'm doing research on GuessWhich and Visual Dialog(VisDial)</b>, please feel free to concat me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
+Now I'm researching GuessWhich and Visual Dialog(VisDial), please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
 # GuessWhat?! Game
 
-GuessWhat?! is an image object-guessing game between two players. It has attracted great research interest in recent years.
+GuessWhat?! is an image object-guessing game between two players. It has attracted considerable research interest in recent years.
 
 Tensorflow implementation of the paper:<br>
 Visual Dialogue State Tracking for Question Generation<br>
@@ -22,7 +22,7 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 
 <b>This research was started in Mar. 2019 and ended in Nov. 2019.</b>
 
-<b>If you use the experimental codes, please concat me with pangweitf@bupt.edu.cn or pangweitf@163.com.</b>
+<b>If you use the experimental codes, please contact me with pangweitf@bupt.edu.cn or pangweitf@163.com.</b>
 
 # Reference
 @InProceedings{pang2020guesswhat,<br>
