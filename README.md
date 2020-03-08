@@ -25,6 +25,9 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 <b>If you use the experimental codes, please contact me with pangweitf@bupt.edu.cn or pangweitf@163.com.</b>
 
 # Reference
+
+If you use our code or models in your research, please cite with:
+
 @InProceedings{pang2020guesswhat,<br>
   title={Visual Dialogue State Tracking for Question Generation},<br>
   author={Wei Pang and Xiaojie Wang},<br>
