@@ -16,6 +16,13 @@ AAAI 2020 (Oral)<br>
 # Latest Progress on the GuessWhat?! Game
 ![](guesser_201911_10.png)
 
+{| class="wikitable" border="1" align="center" width=30%
+|-
+!Guesser !! QGen !!        Max Q's !! S !! G !! BS !! S !! G !! BS
+|guesser[20] || qgen[20] || 5      ||41.6|| 43.5|| 47.1|| 39.2|| 40.8 ||44.6
+|guesser(MN)[27]||TPG[27]||8       ||- ||48.77|| -|| -|| -|| -
+|}
+
 arXiv: https://arxiv.org/abs/2002.10340
 
 As shown in the uploaded figure "guesser_201911_10.png", our latest progress on GuessWhat?! game, it achieves near-perfect accuracy of 83.3% and outperforms all the previous methods. Notes that the human-level performance is 84.4%.
@@ -23,6 +30,7 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 <b>This research was started in Mar. 2019 and ended in Nov. 2019.</b>
 
 <b>If you use the experimental codes, please contact me with pangweitf@bupt.edu.cn or pangweitf@163.com.</b>
+
 
 # Reference
 
