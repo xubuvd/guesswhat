@@ -23,6 +23,11 @@ AAAI 2020 (Oral)<br>
 |guesser[20] | qgen[20] | 5  |41.6| 43.5| 47.1| 39.2| 40.8 |44.6|
 |guesser(MN)[27]|TPG[27]|8   |- |48.77| -| -| -| -|
 
+ 表格      | 第一列     | 第二列     
+ -------- | :-----------:  | :-----------: 
+ 第一行     | 第一列     | 第二列
+
+
 arXiv: https://arxiv.org/abs/2002.10340
 
 As shown in the uploaded figure "guesser_201911_10.png", our latest progress on GuessWhat?! game, it achieves near-perfect accuracy of 83.3% and outperforms all the previous methods. Notes that the human-level performance is 84.4%.
