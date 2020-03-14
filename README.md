@@ -14,18 +14,15 @@ https://arxiv.org/abs/1911.07928<br>
 AAAI 2020 (Oral)<br>
 
 # Latest Progress on the GuessWhat?! Game
+## Sampling accuracy on training set and validation set during Reinforencement Learning
 ![](guesser_201911_10.png)
 
 
-
-|Guesser | QGen | Max Q's | NewObject_S | G | BS | NewGame_S | G | BS|
-| ------ | :----:  | :----: || :----: || :----: || :----: || :----: || :----: || :----: |
-|guesser[20] | qgen[20] | 5  |41.6| 43.5| 47.1| 39.2| 40.8 |44.6|
-|guesser(MN)[27]|TPG[27]|8   |- |48.77| -| -| -| -|
-
- 表格      | 第一列     | 第二列     
- -------- | :-----------:  | :-----------: 
- 第一行     | 第一列     | 第二列
+## Comparision with all the GuessWhat?! models up to now
+ Guesser | QGen  | Max Q's | NewObject_S | G | BS | NewGame_S | G | BS
+ --------| :-----------:  | :-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+ guesser[20] | qgen[20] | 5  |41.6| 43.5| 47.1| 39.2| 40.8 |44.6
+ guesser(MN)[27]|TPG[27]|8   |- |48.77| -| -| -| -
 
 
 arXiv: https://arxiv.org/abs/2002.10340
