@@ -19,7 +19,9 @@ AAAI 2020 (Oral)<br>
 {| class="wikitable" border="1" align="center" width=30%
 |-
 !Guesser !! QGen !!        Max Q's !! S !! G !! BS !! S !! G !! BS
+|-
 |guesser[20] || qgen[20] || 5      ||41.6|| 43.5|| 47.1|| 39.2|| 40.8 ||44.6
+|-
 |guesser(MN)[27]||TPG[27]||8       ||- ||48.77|| -|| -|| -|| -
 |}
 
