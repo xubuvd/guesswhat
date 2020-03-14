@@ -18,7 +18,7 @@ AAAI 2020 (Oral)<br>
 ![](guesser_201911_10.png)
 
 
-## Comparision with all the GuessWhat?! models up to now
+## Comparision with all the GuessWhat?! models that is known to date
  Guesser | QGen  | Max Q's | NewObject_S | G | BS | NewGame_S | G | BS
  --------| :-----------:  | :-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
  guesser[20] | qgen[20] | 5  |41.6| 43.5| 47.1| 39.2| 40.8 |44.6
