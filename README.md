@@ -83,28 +83,31 @@ If you use our code or models in your research, please cite with:
   year={2020}<br>
 }<br>
 
-	
-
 # Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
-1. Multimodal Dialogs(MMD), AAAI 2018<br>
-2. CoDraw, ACL 2019<br>
-3. GuessWhich, AAAI 2017<br>
-4. Multi-agent GuessWhich, AAMAS 2019<br>
-5. GuessWhat?!, CVPR 2017<br>
-6. EmbodiedQA, CVPR 2018<br>
-7. VideoNavQA, BMVC 2019<br>
-8. GuessNumber, SLT 2018<br>
-9. VisDial, CVPR 2017<br>
-10. Image-Grounded Conversations(IGC), CVPR 2017<br>
-11. VDQG, ICCV 2017<br>
-12. RDG-Image guessing game, LREC 2014<br>
-13. Deal or No Deal, CoRR 2017<br>
-14. Video-Grounded Dialogue Systems (VGDS), ACL 2019<br>
-15. Vision-Language Navigation (VLN), CVPR 2018<br>
-16. Image Captioning<br>
-17. Image Retrieval<br>
-18. Visually-grounded Referring Expressions<br>
-19. Multi-modal Verification, ACL 2019<br>
-20. Viual Dialog based Referring Expression<br>
-21. VQA<br>
+ LaVi Tasks | conference  | comment
+ ----------| :-----------:  | :-----------:
+ GuessWhich|AAAI 2017|-
+ Multimodal Dialogs(MMD)|AAAI 2018|-
+ CoDraw|ACL 2019|-
+ GuessWhat?!|CVPR 2017|-
+ Multi-agent GuessWhich|AAMAS 2019|-
+ Image-Chat|ACL 2020|
+ EmbodiedQA|CVPR 2018|
+ VideoNavQA|BMVC 2019|
+ GuessNumber|SLT 2018|
+ VisDial|CVPR 2017|
+ Image-Grounded Conversations(IGC)|CVPR 2017|
+ VDQG|ICCV 2017|
+ RDG-Image guessing game|LREC 2014|
+ Deal or No Deal|CoRR 2017|
+ Video-Grounded Dialogue Systems (VGDS)|ACL 2019|
+ Vision-Language Navigation (VLN)|CVPR 2018|
+ Image Captioning||
+ Image Retrieval||
+ Visually-grounded Referring Expressions|
+ Multi-modal Verification|ACL 2019|
+ Viual Dialog based Referring Expression||
+ VQA||
+# Downloading pretrained model
+# Training
 
