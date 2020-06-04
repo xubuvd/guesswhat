@@ -17,7 +17,7 @@ AAAI 2020 (Oral)<br>
 
 ## 2. Guessing State Tracking for Visual Dialogue<br>
 Wei Pang, Xiaojie Wang<br>
-<b>NEW SOAT on the GuessWhat?! game with the VDST and GST model.</b><br>
+<b>NEW SOAT on the GuessWhat?! game with ours VDST and GST model.</b><br>
 <b>Coming soon...</b><br>
 
 # Latest Progress on the GuessWhat?! Game
