@@ -5,7 +5,7 @@ Now I'm researching GuessWhich and Visual Dialog(VisDial), please feel free to c
 
 # GuessWhat?! Game
 
-GuessWhat?! is an image object-guessing game between two players. It has attracted considerable research interest in recent years.
+GuessWhat?! is an image object-guessing game between two players. Recently it has attracted considerable research interest in computer vision and natural language processing community.
 
 Tensorflow implementation of the paper:<br>
 
