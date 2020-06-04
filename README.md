@@ -8,11 +8,16 @@ Now I'm researching GuessWhich and Visual Dialog(VisDial), please feel free to c
 GuessWhat?! is an image object-guessing game between two players. It has attracted considerable research interest in recent years.
 
 Tensorflow implementation of the paper:<br>
-Visual Dialogue State Tracking for Question Generation<br>
+
+##1. Visual Dialogue State Tracking for Question Generation<br>
 Wei Pang, Xiaojie Wang<br>
 https://arxiv.org/abs/1911.07928<br>
 https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PangW.4189.pdf<br>
 AAAI 2020 (Oral)<br>
+
+##2. Guessing State Tracking for Visual Dialogue<br>
+Wei Pang, Xiaojie Wang<br>
+coming soon<br>
 
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
