@@ -93,16 +93,16 @@ If you use our code or models in your research, please cite with:
 # Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
  LaVi Tasks | conference  | comment
  ----------| :-----------:  | :-----------:
- GuessWhich|AAAI 2017|-
+ GuessWhich|AAAI 2017|- [x]
  Multimodal Dialogs(MMD)|AAAI 2018|-
  CoDraw|ACL 2019|-
- GuessWhat?!|CVPR 2017|-
+ GuessWhat?!|CVPR 2017|- [x]
  Multi-agent GuessWhich|AAMAS 2019|-
  Image-Chat|ACL 2020|
  EmbodiedQA|CVPR 2018|
  VideoNavQA|BMVC 2019|
  GuessNumber|SLT 2018|
- VisDial|CVPR 2017|
+ VisDial|CVPR 2017|- [x]
  Image-Grounded Conversations(IGC)|CVPR 2017|
  VDQG|ICCV 2017|
  RDG-Image guessing game|LREC 2014|
