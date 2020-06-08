@@ -1,5 +1,5 @@
 # About Me
-虚步, a PhD student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision, Language and Reasoning, with a focus on Visual Dialogue. In particular, I am interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation and Visually-grounded Referring Expression.
+虚步, a Ph.D. student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision, Language, and Reasoning, with a focus on Visual Dialogue. I am particularly interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation, and Visually-grounded Referring Expression.
 
 Now I've been working on the GuessWhich task and Visual Dialog(VisDial) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
@@ -19,6 +19,7 @@ AAAI 2020 (Oral)<br>
 Wei Pang, Xiaojie Wang<br>
 <b>NEW SOAT on the GuessWhat?! game with ours VDST and GST model.</b><br>
 <b>Coming soon...</b><br>
+<b>Code source and trained model will be publicly available after the paper accepted.</b><br>
 
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
