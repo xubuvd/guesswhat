@@ -21,6 +21,8 @@ Wei Pang, Xiaojie Wang<br>
 <b>Coming soon...</b><br>
 <b>Code source and trained model will be publicly available after the paper accepted.</b><br>
 
+## 3. PAMI ...
+
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
 ![](guesser_201911_10.png)
