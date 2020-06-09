@@ -19,6 +19,7 @@ AAAI 2020 (Oral)<br>
 Wei Pang, Xiaojie Wang<br>
 ```diff
 +<b>NEW STRONG SOAT on the GuessWhat?! game with ours VDST and GST mechanism.</b><br>
+```
 <b>Coming soon...</b><br>
 <b>Code source and trained model will be publicly available after the paper accepted.</b><br>
 
