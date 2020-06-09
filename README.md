@@ -3,7 +3,7 @@
 
 Now I've been working on the GuessWhich task and Visual Dialog(VisDial) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
-# GuessWhat?! Game
+# GuessWhat?! Game [x]
 
 GuessWhat?! is an image object-guessing game between two players. Recently it has attracted considerable research interest in computer vision and natural language processing community.
 
@@ -17,9 +17,7 @@ AAAI 2020 (Oral)<br>
 
 ## 2. Guessing State Tracking for Visual Dialogue<br>
 Wei Pang, Xiaojie Wang<br>
-```diff
-+<b>NEW STRONG SOAT on the GuessWhat?! game with ours VDST and GST mechanism.</b><br>
-```
+<b>NEW STRONG SOAT on the GuessWhat?! game with ours **VDST** and **GST** mechanism.</b><br>
 <b>Coming soon...</b><br>
 <b>Code source and trained model will be publicly available after the paper accepted.</b><br>
 
