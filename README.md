@@ -78,7 +78,7 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 
 # Reference
 
-If you use our code or models in your research, please cite with:
+If you find this work is useful in your research, please kindly consider citing:
 
 @InProceedings{pang2020guesswhat,<br>
   title={Visual Dialogue State Tracking for Question Generation},<br>
