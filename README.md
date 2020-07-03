@@ -13,11 +13,11 @@ Tensorflow implementation of the paper:<br>
 Wei Pang, Xiaojie Wang<br>
 https://arxiv.org/abs/1911.07928<br>
 https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PangW.4189.pdf<br>
-'''AAAI 2020 (Oral)'''<br>
+<b>AAAI 2020 (Oral)</b><br>
 
 ## 2. Guessing State Tracking for Visual Dialogue<br>
 Wei Pang, Xiaojie Wang<br>
-'''ECCV 2020'''<br>
+<b>ECCV 2020</b><br>
 
 Code source and trained model will be publicly available.<br>
 
