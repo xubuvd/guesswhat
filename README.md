@@ -86,10 +86,10 @@ If you find this work is useful in your research, please kindly consider citing:
   booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},<br>
   year={2020}<br>
 }<br>
-@article{pw2020Guesser,<br>
+@InProceedings{pw2020Guesser,<br>
   title={Guessing State Tracking for Visual Dialogue},<br>
   author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={arXiv:2002.10340},<br>
+  booktitle={ECCV 2020},<br>
   year={2020}<br>
 }<br>
 
