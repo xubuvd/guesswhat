@@ -17,6 +17,7 @@ https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PangW.4189.pdf<br>
 
 ## 2. Guessing State Tracking for Visual Dialogue<br>
 Wei Pang, Xiaojie Wang<br>
+https://arxiv.org/abs/2002.10340<br>
 <b>ECCV 2020</b><br>
 
 Code source and trained model of the above two papers will be publicly available.<br>
