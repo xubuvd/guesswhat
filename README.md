@@ -22,7 +22,7 @@ https://arxiv.org/abs/2002.10340<br>
 
 ## 3. Experiment...<br>
 
-
+GuessWhich has two conversational players: Q-Bot and A-Bot. Compared with GuessWhich, GuessWhat?! has three agents - QGen, Guesser and Oracle.<br>
 
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
