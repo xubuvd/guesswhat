@@ -3,7 +3,7 @@
 
 Now I've been working on the GuessWhich task and Visual Dialog(VisDial) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
-# GuessWhat?! Game :+1:
+# GuessWhat?! Game
 
 GuessWhat?! is an image object-guessing game between two players. Recently it has attracted considerable research interest in computer vision and natural language processing community.
 
@@ -22,7 +22,7 @@ https://arxiv.org/abs/2002.10340<br>
 
 ## 3. Experiment...<br>
 
-GuessWhich has two conversational players: Q-Bot and A-Bot. Compared with it, GuessWhat?! has three agents - QGen, Guesser and Oracle. This is a problem.<br>
+GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWhat?! has three agents - QGen, Guesser and Oracle. This is a problem.<br>
 
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
