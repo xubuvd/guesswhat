@@ -11,14 +11,16 @@ Tensorflow implementation of the 3 papers:<br>
 
 ## 1. Visual Dialogue State Tracking for Question Generation<br>
 Wei Pang, Xiaojie Wang<br>
+Center for Intelligence Science and Technology (CIST), Beijing University of Posts and Telecommunications<br>
 https://arxiv.org/abs/1911.07928<br>
 https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PangW.4189.pdf<br>
-<b>AAAI 2020 (Oral)</b><br>
+<b>In AAAI 2020 (Oral)</b><br>
 
 ## 2. Guessing State Tracking for Visual Dialogue<br>
 Wei Pang, Xiaojie Wang<br>
+Center for Intelligence Science and Technology (CIST), Beijing University of Posts and Telecommunications<br>
 https://arxiv.org/abs/2002.10340<br>
-<b>ECCV 2020</b><br>
+<b>In ECCV 2020</b><br>
 
 ## 3. Experiment...<br>
 
@@ -80,13 +82,13 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 
 If you find this work is useful in your research, please kindly consider citing:
 
-@InProceedings{pang2020guesswhat,<br>
+@InProceedings{pang_2020_AAAI,<br>
   title={Visual Dialogue State Tracking for Question Generation},<br>
   author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},<br>
+  booktitle={AAAI},<br>
   year={2020}<br>
 }<br>
-@InProceedings{pw2020Guesser,<br>
+@InProceedings{pang_2020_ECCV,<br>
   title={Guessing State Tracking for Visual Dialogue},<br>
   author={Wei Pang and Xiaojie Wang},<br>
   booktitle={ECCV 2020},<br>
