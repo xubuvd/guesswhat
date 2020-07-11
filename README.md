@@ -22,9 +22,28 @@ Center for Intelligence Science and Technology (CIST), Beijing University of Pos
 https://arxiv.org/abs/2002.10340<br>
 <b>In ECCV 2020</b><br>
 
-## 3. Experiment...<br>
+## 3. in experimenting...<br>
 
 GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWhat?! has three agents - QGen, Guesser and Oracle. This is a problem.<br>
+
+11/2020 ~ ...<br>
+
+# Reference
+
+If you find this work is useful in your research, please kindly consider citing:
+
+@InProceedings{pang_2020_AAAI,<br>
+  title={Visual Dialogue State Tracking for Question Generation},<br>
+  author={Wei Pang and Xiaojie Wang},<br>
+  booktitle={AAAI},<br>
+  year={2020}<br>
+}<br>
+@InProceedings{pang_2020_ECCV,<br>
+  title={Guessing State Tracking for Visual Dialogue},<br>
+  author={Wei Pang and Xiaojie Wang},<br>
+  booktitle={ECCV},<br>
+  year={2020}<br>
+}<br>
 
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
@@ -76,24 +95,6 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 <b>This research was started in Mar. 2019 and ended in Nov. 2019.</b>
 
 <b>If you use the experimental codes, please contact me with pangweitf@bupt.edu.cn or pangweitf@163.com.</b>
-
-
-# Reference
-
-If you find this work is useful in your research, please kindly consider citing:
-
-@InProceedings{pang_2020_AAAI,<br>
-  title={Visual Dialogue State Tracking for Question Generation},<br>
-  author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={AAAI},<br>
-  year={2020}<br>
-}<br>
-@InProceedings{pang_2020_ECCV,<br>
-  title={Guessing State Tracking for Visual Dialogue},<br>
-  author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={ECCV},<br>
-  year={2020}<br>
-}<br>
 
 # Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
  LaVi Tasks | conference  | comment
