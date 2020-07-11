@@ -7,6 +7,23 @@ Now I've been working on the GuessWhich task and Visual Dialog(VisDial) task, pl
 
 GuessWhat?! is an image object-guessing game between two players. Recently it has attracted considerable research interest in computer vision and natural language processing community.
 
+# Reference
+
+If you find this work is useful in your research, please kindly consider citing:
+
+@InProceedings{pang_2020_AAAI,<br>
+  title={Visual Dialogue State Tracking for Question Generation},<br>
+  author={Wei Pang and Xiaojie Wang},<br>
+  booktitle={AAAI},<br>
+  year={2020}<br>
+}<br>
+@InProceedings{pang_2020_ECCV,<br>
+  title={Guessing State Tracking for Visual Dialogue},<br>
+  author={Wei Pang and Xiaojie Wang},<br>
+  booktitle={ECCV},<br>
+  year={2020}<br>
+}<br>
+
 Tensorflow implementation of the 3 papers:<br>
 
 ## 1. Visual Dialogue State Tracking for Question Generation<br>
@@ -27,23 +44,6 @@ https://arxiv.org/abs/2002.10340<br>
 GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWhat?! has three agents - QGen, Guesser and Oracle. This is a problem.<br>
 
 07/2020 ~ ...<br>
-
-# Reference
-
-If you find this work is useful in your research, please kindly consider citing:
-
-@InProceedings{pang_2020_AAAI,<br>
-  title={Visual Dialogue State Tracking for Question Generation},<br>
-  author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={AAAI},<br>
-  year={2020}<br>
-}<br>
-@InProceedings{pang_2020_ECCV,<br>
-  title={Guessing State Tracking for Visual Dialogue},<br>
-  author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={ECCV},<br>
-  year={2020}<br>
-}<br>
 
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
