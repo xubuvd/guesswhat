@@ -91,7 +91,7 @@ If you find this work is useful in your research, please kindly consider citing:
 @InProceedings{pang_2020_ECCV,<br>
   title={Guessing State Tracking for Visual Dialogue},<br>
   author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={ECCV 2020},<br>
+  booktitle={ECCV},<br>
   year={2020}<br>
 }<br>
 
