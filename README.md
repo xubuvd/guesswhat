@@ -123,7 +123,7 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
  VQA||
 # Downloading pretrained model
 
-the accuracy of the pretrained model as follows, running many times:<br>
+We test the pretrained model on train, val and test set similar to previous work, each many times, the accuracy of the pretrained model as follows:<br>
 <br>
 1:<br>
 >>>  New Objects  <<< <br>
