@@ -124,33 +124,47 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 # Downloading pretrained model
 
 the accuracy of the pretrained model as follows, running many times:<br>
->>>  New Objects  <<<<br>
+>>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:41<00:00,  4.02it/s]<br>
 Accuracy (train - greedy): 0.8367312048553234<br>
 ErroRate (train - greedy): 0.16326879514467663<br>
->>> valid set <<<<br>
+>>> valid set <<< <br>
 100%|██████████| 154/154 [01:06<00:00,  3.75it/s]<br>
 Accuracy (valid - greedy): 0.8267980495733441<br>
 ErroRate (valid - greedy): 0.17320195042665587<br>
->>>  New Games  <<<<br>
+>>>  New Games  <<< <br>
 100%|██████████| 372/372 [02:37<00:00,  3.71it/s]<br>
 Accuracy (test - greedy): 0.815471936094177<br>
 ErroRate (test - greedy): 0.184528063905823<br>
->>>------------------------------------------------<<<<br>
+>>>------------------------------------------------<<< <br>
 <br>
->>>  New Objects  <<<<br>
+>>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:09<00:00,  3.46it/s]<br>
 Accuracy (train - greedy): 0.83559858101466<br>
 ErroRate (train - greedy): 0.16440141898534<br>
->>> valid set <<<<br>
+>>> valid set <<< <br>
 100%|██████████| 154/154 [00:58<00:00,  3.33it/s]<br>
 Accuracy (valid - greedy): 0.8278138967899228<br>
 ErroRate (valid - greedy): 0.1721861032100772<br>
->>>  New Games  <<<<br>
+>>>  New Games  <<< <br>
 100%|██████████| 372/372 [02:45<00:00,  3.32it/s]<br>
 Accuracy (test - greedy): 0.815471936094177<br>
 ErroRate (test - greedy): 0.184528063905823<br>
->>>------------------------------------------------<<<<br>
+>>>------------------------------------------------<<< <br>
+<br>
+>>>  New Objects  <<< <br>
+100%|██████████| 732/732 [05:28<00:00,  3.99it/s]<br>
+Accuracy (train - greedy): 0.8344232166517075<br>
+ErroRate (train - greedy): 0.1655767833482925<br>
+>>> valid set <<< <br>
+100%|██████████| 154/154 [01:03<00:00,  3.57it/s]<br>
+Accuracy (valid - greedy): 0.8300487606663958<br>
+ErroRate (valid - greedy): 0.16995123933360423<br>
+>>>  New Games  <<< <br>
+100%|██████████| 372/372 [02:44<00:00,  3.73it/s]<br>
+Accuracy (test - greedy): 0.815471936094177<br>
+ErroRate (test - greedy): 0.184528063905823<br>
+>>>------------------------------------------------<<< <br>
 
 # Training
 
