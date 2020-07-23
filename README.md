@@ -125,6 +125,7 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 
 We test the pretrained model on train, val and test set similar to previous work, each many times, the accuracy of the pretrained model as follows:<br>
 <br>
+732,154 and 372 are the number of batchs in train.val and test set respectively.
 1:<br>
 >>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:41<00:00,  4.02it/s]<br>
