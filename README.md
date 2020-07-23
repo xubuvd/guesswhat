@@ -124,6 +124,7 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 # Downloading pretrained model
 
 the accuracy of the pretrained model as follows, running many times:<br>
+<br>
 1:<br>
 >>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:41<00:00,  4.02it/s]<br>
@@ -138,6 +139,7 @@ ErroRate (valid - greedy): 0.17320195042665587<br>
 Accuracy (test - greedy): 0.815471936094177<br>
 ErroRate (test - greedy): 0.184528063905823<br>
 >>>------------------------------------------------<<< <br>
+<br>
 2:<br>
 >>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:09<00:00,  3.46it/s]<br>
@@ -152,6 +154,7 @@ ErroRate (valid - greedy): 0.1721861032100772<br>
 Accuracy (test - greedy): 0.815471936094177<br>
 ErroRate (test - greedy): 0.184528063905823<br>
 >>>------------------------------------------------<<< <br>
+<br>
 3:<br>
 >>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:28<00:00,  3.99it/s]<br>
