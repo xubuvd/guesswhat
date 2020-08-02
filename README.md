@@ -126,7 +126,31 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 We test the pretrained model on train, val and test set similar to previous work, each many times, the accuracy of the pretrained model as follows:<br>
 <br>
 732,154 and 372 are the number of batch of size 64 in train, val and test set respectively.<br>
+
 1:<br>
+>>>  New Objects  <<< <br>
+100%|██████████| 732/732 [05:44<00:00,  2.86it/s]<br>
+Accuracy (train - greedy): 0.8382912339188785<br>
+ErroRate (train - greedy): 0.1617087660811215<br>
+100%|██████████| 732/732 [05:12<00:00,  3.28it/s]<br>
+Accuracy (train - sampling): 0.8304910886011027<br>
+ErroRate (train - sampling): 0.16950891139889734<br>
+>>> valid set <<< <br>
+100%|██████████| 154/154 [01:08<00:00,  3.15it/s]<br>
+Accuracy (valid - greedy): 0.8300487606663958<br>
+ErroRate (valid - greedy): 0.16995123933360423<br>
+100%|██████████| 154/154 [01:14<00:00,  3.24it/s]<br>
+Accuracy (valid - sampling): 0.8212108898821617<br>
+ErroRate (valid - sampling): 0.17878911011783827<br>
+>>>  New Games  <<< <br>
+100%|██████████| 372/372 [02:54<00:00,  3.10it/s]<br>
+Accuracy (test - greedy): 0.815471936094177<br>
+ErroRate (test - greedy): 0.184528063905823<br>
+100%|██████████| 372/372 [02:50<00:00,  3.31it/s]<br>
+Accuracy (test - sampling): 0.8124027748581039<br>
+ErroRate (test - sampling): 0.18759722514189614<br>
+>>>------------------------------------------------<<< <br>
+2:<br>
 >>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:41<00:00,  4.02it/s]<br>
 Accuracy (train - greedy): 0.8367312048553234<br>
@@ -141,7 +165,8 @@ Accuracy (test - greedy): 0.815471936094177<br>
 ErroRate (test - greedy): 0.184528063905823<br>
 >>>------------------------------------------------<<< <br>
 <br>
-2:<br>
+
+3:<br>
 >>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:09<00:00,  3.46it/s]<br>
 Accuracy (train - greedy): 0.83559858101466<br>
@@ -156,7 +181,8 @@ Accuracy (test - greedy): 0.815471936094177<br>
 ErroRate (test - greedy): 0.184528063905823<br>
 >>>------------------------------------------------<<< <br>
 <br>
-3:<br>
+
+4:<br>
 >>>  New Objects  <<< <br>
 100%|██████████| 732/732 [05:28<00:00,  3.99it/s]<br>
 Accuracy (train - greedy): 0.8344232166517075<br>
