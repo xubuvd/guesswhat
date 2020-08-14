@@ -41,7 +41,7 @@ https://arxiv.org/abs/2002.10340<br>
 
 ## 3. experiment is in progress...<br>
 
-GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWhat?! has three agents - QGen, Guesser and Oracle. This is a problem.<br>
+GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWhat?! has three agents - QGen, Guesser and Oracle. This is a problem we are solving.<br>
 
 07/2020 ~ ...<br>
 
