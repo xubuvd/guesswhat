@@ -7,6 +7,8 @@ Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-V
 
 GuessWhat?! is an image object-guessing game between two players. Recently it has attracted considerable research interest in computer vision and natural language processing community.
 
+We give many games played by our agents in https://github.com/xubuvd/guesswhat/tree/OurGames.
+
 # Reference
 
 If you find this work is useful in your research, please kindly consider citing:
