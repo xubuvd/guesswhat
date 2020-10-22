@@ -26,6 +26,7 @@ If you find this work is useful in your research, please kindly consider citing:
   year={2020}<br>
 }<br>
 
+
 Tensorflow implementation of the 3 papers:<br>
 
 ## 1. Visual Dialogue State Tracking for Question Generation<br>
@@ -42,6 +43,9 @@ Center for Intelligence Science and Technology (CIST), Beijing University of Pos
 https://arxiv.org/abs/2002.10340<br>
 https://link.springer.com/chapter/10.1007/978-3-030-58517-4_40<br>
 <b>In ECCV 2020</b><br>
+<br>
+ECCV 2020 papers: https://www.ecva.net/papers.php<br>
+<br>
 
 ## 3. experiment is in progress...<br>
 
