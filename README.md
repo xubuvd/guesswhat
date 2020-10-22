@@ -32,13 +32,15 @@ Tensorflow implementation of the 3 papers:<br>
 Wei Pang, Xiaojie Wang<br>
 Center for Intelligence Science and Technology (CIST), Beijing University of Posts and Telecommunications<br>
 https://arxiv.org/abs/1911.07928<br>
-https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PangW.4189.pdf<br>
+https://aaai.org/ojs/index.php/AAAI/article/view/6856<br>
+https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PangW.4189.pdf(deprecated)<br>
 <b>In AAAI 2020 (Oral)</b><br>
 
 ## 2. Guessing State Tracking for Visual Dialogue<br>
 Wei Pang, Xiaojie Wang<br>
 Center for Intelligence Science and Technology (CIST), Beijing University of Posts and Telecommunications<br>
 https://arxiv.org/abs/2002.10340<br>
+https://link.springer.com/chapter/10.1007/978-3-030-58517-4_40<br>
 <b>In ECCV 2020</b><br>
 
 ## 3. experiment is in progress...<br>
