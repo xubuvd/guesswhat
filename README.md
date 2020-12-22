@@ -50,9 +50,8 @@ GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWh
 
 07/2020 ~ ...<br>
 
-<br>
-08-07-2020, Visual question answering and dialogue in Chinese by Prfo. Xiaojie Wang, https://ttv.cn/archives/10280
-<br>
+# Special Lecture
+08-07-2020, keynote "Visual question answering and dialogue" in Chinese by Prfo. Xiaojie Wang, https://ttv.cn/archives/10280<br>
 
 # Latest Progress on the GuessWhat?! Game
 ## Sampling accuracy on training set and validation set during Reinforencement Learning
