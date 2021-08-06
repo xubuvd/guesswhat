@@ -1,5 +1,5 @@
 # About Me
-OneStep, He is a Ph.D. student at Beijing University of Posts and Telecommunications. He is very fortunate to be advised by his advisor. His research is in the area of Vision, Language, and Reasoning, currently focusing on Visual Dialogue. He is particularly interested in building a visually-grounded conversational AI (social robot) to see the world and talk with us in natural language. Other interests include Natural Language Processing and Visually-grounded Referring Expression.
+虚步, He is a Ph.D. student at Beijing University of Posts and Telecommunications. He is very fortunate to be advised by his advisor. His research is in the area of Vision, Language, and Reasoning, currently focusing on Visual Dialogue. He is particularly interested in building a visually-grounded conversational AI (social robot) to see the world and talk with us in natural language. Other interests include Natural Language Processing and Visually-grounded Referring Expression.
 
 Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
