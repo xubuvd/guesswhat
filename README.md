@@ -1,52 +1,6 @@
-# About Me
-虚步, He is a Ph.D. student at Beijing University of Posts and Telecommunications. His research is in the area of Vision, Language, and Reasoning, currently focusing on Visual Dialogue. He is particularly interested in building a visually-grounded conversational AI (social robot) to see the world and talk with us in natural language. Other interests include Natural Language Processing and Visually-grounded Referring Expression.
-
-Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.cn or pangweitf@163.com if you have any questions or concerns.
-
 # GuessWhat?! Game
 
 GuessWhat?! is an image object-guessing game between two players. Recently it has attracted considerable research interest in computer vision and natural language processing community.<br>
-
-# Reference
-
-If you find this work is useful in your research, please kindly consider citing:
-
-@InProceedings{pang_2020_AAAI,<br>
-  title={Visual Dialogue State Tracking for Question Generation},<br>
-  author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={AAAI},<br>
-  year={2020}<br>
-}<br>
-@InProceedings{pang_2020_ECCV,<br>
-  title={Guessing State Tracking for Visual Dialogue},<br>
-  author={Wei Pang and Xiaojie Wang},<br>
-  booktitle={ECCV},<br>
-  year={2020}<br>
-}<br>
-
-
-Tensorflow implementation of the 3 papers:<br>
-
-## 1. Visual Dialogue State Tracking for Question Generation<br>
-Wei Pang, Xiaojie Wang<br>
-Center for Intelligence Science and Technology (CIST), Beijing University of Posts and Telecommunications<br>
-https://aaai.org/ojs/index.php/AAAI/article/view/6856<br>
-<b>In AAAI 2020 (Oral)</b><br>
-
-## 2. Guessing State Tracking for Visual Dialogue<br>
-Wei Pang, Xiaojie Wang<br>
-Center for Intelligence Science and Technology (CIST), Beijing University of Posts and Telecommunications<br>
-https://link.springer.com/chapter/10.1007/978-3-030-58517-4_40<br>
-<b>In ECCV 2020</b><br>
-<br>
-ECCV 2020 papers list: https://www.ecva.net/papers.php<br>
-<br>
-
-## 3. experiment is in progress...<br>
-
-GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWhat?! has three agents - QGen, Guesser and Oracle. This is a problem we are solving.<br>
-
-07/2020 ~ ...<br>
 
 # Special Lecture
 08-07-2020, keynote "Visual question answering and dialogue" in Chinese by Prfo. Xiaojie Wang, https://ttv.cn/archives/10280<br>
@@ -93,8 +47,6 @@ GuessWhich has two conversational players: Q-Bot and A-Bot. In contrast, GuessWh
  GST(ours)|VDST[13] (ours)|8 |<b>83.22</b>| <b>83.32</b> |<b>83.46</b> |<b>81.50</b> |<b>81.55</b> |<b>81.62</b>
  Human[19]| - |-| - |84.4| -| - |84.4 |-
 
-
-arXiv: https://arxiv.org/abs/2002.10340
 
 As shown in the uploaded figure "guesser_201911_10.png", our latest progress on GuessWhat?! game, it achieves near-perfect accuracy of 83.3% and outperforms all the previous methods. Notes that the human-level performance is 84.4%.
 
@@ -206,5 +158,3 @@ ErroRate (test - greedy): 0.184528063905823<br>
 >>>------------------------------------------------<<< <br>
 
 # Training
-
-
