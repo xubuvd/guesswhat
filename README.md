@@ -52,8 +52,6 @@ As shown in the uploaded figure "guesser_201911_10.png", our latest progress on 
 
 <b>This research was started in Mar. 2019 and ended in Nov. 2019.</b>
 
-<b>If you use the experimental codes, please contact me with pangweitf@bupt.edu.cn or pangweitf@163.com.</b>
-
 # Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
  LaVi Tasks | conference  | comment
  ----------| :-----------:  | :-----------:
