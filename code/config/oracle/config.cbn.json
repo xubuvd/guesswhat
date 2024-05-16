@@ -1,0 +1,68 @@
+{
+  "inputs": {
+    "question": true,
+    "category": true,
+    "spatial": true,
+    "crop": true,
+    "image": false
+  },
+
+  "model": {
+    "question": {
+      "no_LSTM_hiddens": 512,
+      "embedding_dim": 300
+    },
+
+    "category": {
+      "n_categories": 90,
+      "embedding_dim": 512
+    },
+
+    "MLP": {
+      "num_hiddens": 512
+    },
+
+    "image": {
+      "image_input": "fc8",
+      "dim": [1000]
+    },
+
+    "crop": {
+
+      "image_input": "raw",
+
+      "dim": [224, 224, 3],
+      "scale" : 1.1,
+      "normalize": true,
+
+      "resnet_version": 50,
+      "finetune" : [],
+
+      "attention" : {
+        "mode": "classic",
+        "no_attention_mlp": 256,
+        "no_glimpses": 2
+      },
+
+      "cbn": {
+        "use_cbn": true,
+        "cbn_embedding_size": 512,
+        "excluded_scope_names": ["resnet_v1_50/conv1", "shortcut"]
+      }
+    }
+
+  },
+
+  "optimizer": {
+    "no_epoch": 20,
+    "learning_rate": 1e-4,
+    "batch_size": 64,
+    "clip_val": 5
+  },
+
+  "status": ["success"],
+  "seed": -1
+
+}
+
+
