@@ -1,0 +1,71 @@
+
+"""
+qgen_var:
+[
+<tf.Variable 'qgen/word_embedding/W:0' shape=(4901, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/question_answer_encoder/layer_norm_basic_lstm_cell/kernel:0' shape=(1636, 4096) dtype=float32_ref>,
+<tf.Variable 'qgen/question_answer_encoder/layer_norm_basic_lstm_cell/bias:0' shape=(4096,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/H_FC/W:0' shape=(1024, 1024) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/H_FC/b:0' shape=(1024,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_FC/W:0' shape=(100, 1024) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_FC/b:0' shape=(1024,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_0/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_0/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_0/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_0/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_1/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_1/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_1/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_1/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/fusion_weight/W:0' shape=(512, 1) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/fusion_weight/b:0' shape=(1,) dtype=float32_ref>,
+<tf.Variable 'qgen/word_decoder/layer_norm_basic_lstm_cell/kernel:0' shape=(1636, 4096) dtype=float32_ref>,
+<tf.Variable 'qgen/word_decoder/layer_norm_basic_lstm_cell/bias:0' shape=(4096,) dtype=float32_ref>,
+<tf.Variable 'qgen/decoder_output/fully_connected/W:0' shape=(1024, 4901) dtype=float32_ref>,
+<tf.Variable 'qgen/decoder_output/fully_connected/b:0' shape=(4901,) dtype=float32_ref>,
+<tf.Variable 'qgen/rl_baseline/baseline_hidden/W:0' shape=(1024, 100) dtype=float32_ref>,
+<tf.Variable 'qgen/rl_baseline/baseline_hidden/b:0' shape=(100,) dtype=float32_ref>,
+<tf.Variable 'qgen/rl_baseline/baseline_out/W:0' shape=(100, 1) dtype=float32_ref>,
+<tf.Variable 'qgen/rl_baseline/baseline_out/b:0' shape=(1,) dtype=float32_ref>
+]
+"""
+
+
+"""
+pg_variables:
+[
+<tf.Variable 'qgen/word_embedding/W:0' shape=(4901, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/question_answer_encoder/layer_norm_basic_lstm_cell/kernel:0' shape=(1636, 4096) dtype=float32_ref>,
+<tf.Variable 'qgen/question_answer_encoder/layer_norm_basic_lstm_cell/bias:0' shape=(4096,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/H_FC/W:0' shape=(1024, 1024) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/H_FC/b:0' shape=(1024,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_FC/W:0' shape=(100, 1024) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_FC/b:0' shape=(1024,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_0/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_0/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_0/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_0/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_1/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/Visual_fusion_1/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_1/W:0' shape=(1024, 512) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/qa_fusion_1/b:0' shape=(512,) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/fusion_weight/W:0' shape=(512, 1) dtype=float32_ref>,
+<tf.Variable 'qgen/Mutan_Fusion/fusion_weight/b:0' shape=(1,) dtype=float32_ref>,
+<tf.Variable 'qgen/word_decoder/layer_norm_basic_lstm_cell/kernel:0' shape=(1636, 4096) dtype=float32_ref>,
+<tf.Variable 'qgen/word_decoder/layer_norm_basic_lstm_cell/bias:0' shape=(4096,) dtype=float32_ref>,
+<tf.Variable 'qgen/decoder_output/fully_connected/W:0' shape=(1024, 4901) dtype=float32_ref>,
+<tf.Variable 'qgen/decoder_output/fully_connected/b:0' shape=(4901,) dtype=float32_ref>
+]
+"""
+
+"""
+baseline_variables:
+[
+<tf.Variable 'qgen/rl_baseline/baseline_hidden/W:0' shape=(1024, 100) dtype=float32_ref>,
+<tf.Variable 'qgen/rl_baseline/baseline_hidden/b:0' shape=(100,) dtype=float32_ref>,
+<tf.Variable 'qgen/rl_baseline/baseline_out/W:0' shape=(100, 1) dtype=float32_ref>,
+<tf.Variable 'qgen/rl_baseline/baseline_out/b:0' shape=(1,). dtype=float32_ref>
+]
+"""
+
+

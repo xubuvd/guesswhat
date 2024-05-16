@@ -1,0 +1,27 @@
+{
+  "optimizer": {
+    "no_epoch": 100,
+    "learning_rate":1e-3,
+    "batch_size": 64,
+    "clip_val": 5,
+    "decay_steps":732,
+    "decay_rate":0.995,
+    "decay_epoches":5,
+    "momentum_rate":1.035,
+    "momentum_decay_epoches":25
+  },
+  "loop": {
+    "max_question": 8,
+    "max_depth" : 12,
+    "beam_k_best" : 20,
+    "object_num":36,
+    "object_feature_size":512,
+    "used_num":10000000,
+    "log_level":0,
+    "tau":1.0
+  },
+  "seed": -1,
+  "QGen":"VDST, reseacher on when to stop dialogue",
+  "Guesser":"GST"
+}
+
