@@ -1,6 +1,8 @@
-# GuessWhat?! Game
+# Visual Dialogue -- GuessWhat?! 
 
 GuessWhat?! is an image object-guessing game between two players. Recently it has attracted considerable research interest in computer vision and natural language processing community.<br>
+# come back
+I'm back again, and I'll continue researching the GuessWhat visual dialogue task, with the help of LLM.
 
 # Special Lecture
 08-07-2020, keynote "Visual question answering and dialogue" in Chinese by Prfo. Xiaojie Wang, https://ttv.cn/archives/10280<br>
